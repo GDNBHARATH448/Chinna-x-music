@@ -9,6 +9,7 @@ bs4
 telegraph
 wget
 unidecode
+uvloop
 cloudscraper
 curl-cffi
 deepai
