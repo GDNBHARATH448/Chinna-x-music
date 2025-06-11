@@ -25,6 +25,7 @@ spotipy
 tgcrypto
 unidecode
 uvloop
+gunicorn==20.1.0
 yt-dlp
 youtube-search
 youtube-search-python
